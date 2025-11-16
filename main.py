@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Parameters
-pitol_values = [0.0004] # [1.0, 0.5, 0.1, 0.05, 0.03, 0.02, 0.015, 0.014, 0.013, 0.012, 0.011, 0.01, 0.008, 0.006, 0.005, 0.001, 0.0008, 0.0006, 0.0005, 0.0004]
+pitol_values = [0.0004]
 params = {
     'pitol': pitol_values[-1], 'xi': 2.4, 'w0': 0.1, 'z': 0.1, 'Gamma_1': 0.9/50, 
     'Gamma_2': 0.29, 'gamma': 1, 'T': 70, 'epsilon': 1, 'sigma': 0.001,
@@ -350,3 +350,4 @@ if __name__ == '__main__':
         print("Resultados exportados a resultados.xlsx")
     else:
         print("No successful results found.")
+
