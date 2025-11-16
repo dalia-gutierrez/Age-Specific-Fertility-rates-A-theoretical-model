@@ -24,6 +24,8 @@ This work is part of an ongoing academic research paper (co-authored with two co
 - Angélica Tan Jun Ríos: Finding data, calibration
 - P. Andrés Neumeyer: Comments, discussion
 
+---
+
 ## Key Features
 
 | Feature | Description |
