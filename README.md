@@ -21,7 +21,7 @@ This work is part of an ongoing academic research paper (co-authored with two co
 
 ## Authors
 - **[Dalia Gutiérrez Valencia](www.linkedin.com/in/dalia-scherazada-gutiérrez-valencia-5b7202253)**: Theoretical model design, coding, numerics
-- Angélica Tan Jun Ríos: Finding data, calibration
+- Angélica Tan Jun Ríos: Finding data, calibration, discussion
 - P. Andrés Neumeyer: Comments, discussion
 
 ---
