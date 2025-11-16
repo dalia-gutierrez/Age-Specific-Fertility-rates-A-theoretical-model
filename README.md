@@ -1,4 +1,4 @@
-# Population-growth-rate-theoretical-model
+# Age-Specific-Fertility-rates-A-theoretical-model
 Python code that reproduces the working paper "A Model of Age-Specific Fertility Dynamics: Child Costs, Human Capital and Sexual Desire in U.S. Fertility Decline", available at: https://www.dropbox.com/scl/fi/cm42dejn4zil9xsj1g6ir/A-Model-of-Age-Specific-Fertility-Dynamics.pdf?rlkey=0qujgs2se1ci9o9yd5rrbhyls&st=tcs52b6a&dl=0
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
