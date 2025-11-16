@@ -30,7 +30,7 @@ This work is part of an ongoing academic research paper (co-authored with two co
 
 | Feature | Description |
 - Cohort-level BVP: Solves a 6-dimensional ODE system over lifetime [0, T=70] for consumption, labor, fertility, human capital, bonds, and cumulative births.
-- Endogenous Fertility: Fertility n(a) responds to wages, interest rates, child-rearing costs, and survival risk via a lognormal hazard + tolerance (pitol).
+- Endogenous Fertility: Fertility n(a) responds to wages, interest rates, child-rearing costs.
 - General Equilibrium: Finds equilibrium interest rate r* and population growth g_n* such that bond market clears and population is stationary in growing frame.
 - TFR Calculation: Post-processing script (Calculate_TFR.py) computes TFR from simulated n(a) using 5-year age bins and user-input g_n.
 - Parallel Computation: Uses multiprocessing to scan over boundary condition parameter bc_epsilon to match terminal fertility condition.
